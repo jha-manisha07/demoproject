@@ -1,0 +1,26 @@
+<Html>
+    <Head> 
+        
+        <script src="https://ui5.sap.com/resources/sap-ui-core.js"
+        data-sap-ui-libs="sap.m"
+        data-sap-ui-theme="sap_fiori_3_dark"
+        data-sap-ui-resourceroots='{ 
+            "manisha":"./"
+        }'
+        data-sap-ui-bindingSyntax="complex">
+    </script>
+        <script> 
+            var oView = new sap.ui.view({
+                id:"idView",
+                viewName: "manisha.view.Main",
+                type:"XML"
+            });
+            oView.placeAt("content");   
+        </script> 
+    </Head>
+        <Body class="sapUiBody"> 
+          <div id="content">
+          </div> 
+        </Body> 
+    
+</Html>

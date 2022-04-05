@@ -1,0 +1,114 @@
+{
+    "orderDetail": [
+        {
+            "oId": 100,
+            "pId": 1000,
+            "product": "PS5 console",
+            "dop": "2019-03-26",
+            "custName": "Dilip Rana",
+            "price": 77000,
+            "payStatus": "pd",
+            "delivered": true,
+            "rating": 5
+        },
+        {
+            "oId": 101,
+            "pId": 1001,
+            "product": "iPhone",
+            "dop":"2019-05-16",
+            "custName": "Deepak",
+            "price": 85000,
+            "payStatus": "pnd",
+            "delivered": false,
+            "rating": 3
+        },
+        {
+            "oId": 102,
+            "pId": 1002,
+            "product": "MacBook",
+            "dop": "2020-01-21",
+            "custName": "Ankita",
+            "price": 227000,
+            "payStatus": "pd",
+            "delivered": false,
+            "rating": 3
+        },
+        {
+            "oId": 103,
+            "pId": 1003,
+            "product": "Laptop",
+            "dop": "2020-01-21",
+            "custName": "Jai",
+            "price": 67000,
+            "payStatus": "pnd",
+            "delivered": true,
+            "rating": 2
+        },
+        {
+            "oId": 104,
+            "pId": 1004,
+            "product": "Desktop",
+            "dop": "2020-05-21",
+            "custName": "Sujita Choudhary",
+            "price": 97000,
+            "payStatus": "pd",
+            "delivered": false,
+            "rating": 1.5
+        },
+        {
+            "oId": 105,
+            "pId": 1005,
+            "product": "SmartPhone",
+            "dop": "2018-01-21",
+            "custName": "Shivam",
+            "price": 93000,
+            "payStatus": "pd",
+            "delivered": true,
+            "rating": 2.5
+        },
+        {
+            "oId": 106,
+            "pId": 1006,
+            "product": "Seragem",
+            "dop": "2020-02-13",
+            "custName": "Aman",
+            "price": 253000,
+            "payStatus": "pd",
+            "delivered": true,
+            "rating": 5
+        },
+        {
+            "oId": 107,
+            "pId": 1007,
+            "product": "MacBook",
+            "dop": "2020-12-20",
+            "custName": "Ajay",
+            "price": 120000,
+            "payStatus": "pnd",
+            "delivered": false,
+            "rating": 2.3
+        },
+        {
+            "oId": 108,
+            "pId": 1008,
+            "product": "Gym Set",
+            "dop": "2020-11-12",
+            "custName": "Kavita Singh",
+            "price": 27000,
+            "payStatus": "pnd",
+            "delivered": true,
+            "rating": 4.5
+        },
+        {
+            "oId": 109,
+            "pId": 1009,
+            "product": "Vaccum Cleaner",
+            "dop": "2021-05-15",
+            "custName": "Arijit Singh",
+            "price": 18000,
+            "payStatus": "pd",
+            "delivered": false,
+            "rating": 3.2
+        }
+    ]
+}
